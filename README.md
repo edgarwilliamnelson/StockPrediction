@@ -1,6 +1,6 @@
 Project to gain experience with Deep Learning. Explored procedures of data transformation to be readied for network consumption and development of a rudimentary LSTM (Long-Short-Term-Memory) model.  
 
-The dataset is Amazon’s stock price history from 2016-2019, a stock’s price history is essentially a pre formatted time-series dataset that will hopefully contain some easily recognizable trends (unless we choose to attempt to predict BTC).  
+The dataset is Amazon’s stock price history from 2016-2019, a stock’s price history is essentially a pre formatted time-series dataset that will hopefully contain some easily recognizable trends.
 
 The network is trained on the first two years of data and then tested on the third.  
 
